@@ -11,7 +11,7 @@ Godot Engine is a feature-packed, cross-platform game engine to create 2D and
 tools, so that users can focus on making games without having to reinvent the
 wheel. Games can be exported in one click to a number of platforms, including
 the major desktop platforms (Linux, Mac OSX, Windows) as well as mobile
-(Android, iOS) and web-based (HTML5) platforms.
+(Android, iOS) and web-based (HTML5) platforms.  
 
 #### Free, open source and community-driven
 
